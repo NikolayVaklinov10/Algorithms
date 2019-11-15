@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92b3c1bb-e13f-44d2-a448-0a2af5fc771c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/nikolayvaklinov.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Constructive_Algorithms(Arrays)/Array_Construction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Constructive_Algorithms(Arrays)/Beautiful_3_Set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Constructive_Algorithms(Arrays)/Bonetrousle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Constructive_Algorithms(Arrays)/Gaming_Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Constructive_Algorithms(Arrays)/Inverse_RMQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Constructive_Algorithms(Arrays)/Lovely_Triplets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Constructive_Algorithms(Arrays)/Two_Subarrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Constructive_Algorithms(Arrays)/Yet_Another_KMP_Problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementation/Angry_Professor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementation/Apple_and_Orange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementation/Beautiful_Days_at_the_Movies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementation/Birthday_Chocolate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementation/Bon_Appetit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementation/Breaking_the_Records.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementation/Btween_Two_Sets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementation/Cats_and_a_Mouse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementation/Circular_Array_Rotation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementation/Climbing_the_Leaderboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementation/Day_of_the_Programmer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementation/Designer_PDF_Viewer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementation/Divisible_Sum_Pairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementation/Drawing_Book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementation/Electronics_Shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementation/Forming_a_Magic_Square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementation/Grading_Students.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementation/Kangaroo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementation/Migratory_Birds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementation/Picking_Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementation/Save_the_Prisoner!.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementation/Sequence_Equation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementation/The_Hurdle_Race.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementation/Utopian_Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Implementation/Viral_Advertising.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Constructive_Algorithms(Arrays)/Lena_Sort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Constructive_Algorithms(Arrays)/Flipping_the_Matrix.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Constructive_Algorithms(Arrays)/Gaming_Array.py" />
+        <option value="$PROJECT_DIR$/Constructive_Algorithms(Arrays)/Bonetrousle.py" />
+        <option value="$PROJECT_DIR$/Constructive_Algorithms(Arrays)/Yet_Another_KMP_Problem.py" />
+        <option value="$PROJECT_DIR$/Constructive_Algorithms(Arrays)/Beautiful_3_Set.py" />
+        <option value="$PROJECT_DIR$/Constructive_Algorithms(Arrays)/Inverse_RMQ.py" />
+        <option value="$PROJECT_DIR$/Constructive_Algorithms(Arrays)/Two_Subarrays.py" />
+        <option value="$PROJECT_DIR$/Constructive_Algorithms(Arrays)/Lovely_Triplets.py" />
+        <option value="$PROJECT_DIR$/Constructive_Algorithms(Arrays)/Array_Construction.py" />
+        <option value="$PROJECT_DIR$/Implementation/Grading_Students.py" />
+        <option value="$PROJECT_DIR$/Implementation/Apple_and_Orange.py" />
+        <option value="$PROJECT_DIR$/Implementation/Kangaroo.py" />
+        <option value="$PROJECT_DIR$/Implementation/Btween_Two_Sets.py" />
+        <option value="$PROJECT_DIR$/Implementation/Breaking_the_Records.py" />
+        <option value="$PROJECT_DIR$/Implementation/Birthday_Chocolate.py" />
+        <option value="$PROJECT_DIR$/Implementation/Divisible_Sum_Pairs.py" />
+        <option value="$PROJECT_DIR$/Implementation/Migratory_Birds.py" />
+        <option value="$PROJECT_DIR$/Implementation/Day_of_the_Programmer.py" />
+        <option value="$PROJECT_DIR$/Implementation/Bon_Appetit.py" />
+        <option value="$PROJECT_DIR$/Implementation/Drawing_Book.py" />
+        <option value="$PROJECT_DIR$/Implementation/Electronics_Shop.py" />
+        <option value="$PROJECT_DIR$/Implementation/Cats_and_a_Mouse.py" />
+        <option value="$PROJECT_DIR$/Implementation/Forming_a_Magic_Square.py" />
+        <option value="$PROJECT_DIR$/Implementation/Picking_Numbers.py" />
+        <option value="$PROJECT_DIR$/Implementation/Climbing_the_Leaderboard.py" />
+        <option value="$PROJECT_DIR$/Implementation/The_Hurdle_Race.py" />
+        <option value="$PROJECT_DIR$/Implementation/Designer_PDF_Viewer.py" />
+        <option value="$PROJECT_DIR$/Implementation/Utopian_Tree.py" />
+        <option value="$PROJECT_DIR$/Implementation/Angry_Professor.py" />
+        <option value="$PROJECT_DIR$/Implementation/Beautiful_Days_at_the_Movies.py" />
+        <option value="$PROJECT_DIR$/Implementation/Viral_Advertising.py" />
+        <option value="$PROJECT_DIR$/Implementation/Save_the_Prisoner!.py" />
+        <option value="$PROJECT_DIR$/Implementation/Circular_Array_Rotation.py" />
+        <option value="$PROJECT_DIR$/Implementation/Sequence_Equation.py" />
+        <option value="$PROJECT_DIR$/Constructive_Algorithms(Arrays)/Flipping_the_Matrix.py" />
+        <option value="$PROJECT_DIR$/Constructive_Algorithms(Arrays)/Lena_Sort.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="813" />
+    <option name="height" value="810" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="Constructive_Algorithms(Arrays)" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92b3c1bb-e13f-44d2-a448-0a2af5fc771c" name="Default Changelist" comment="" />
+      <created>1573561177822</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573561177822</updated>
+      <workItem from="1573561180563" duration="530000" />
+      <workItem from="1573734601936" duration="1965000" />
+      <workItem from="1573771791118" duration="148000" />
+      <workItem from="1573816611048" duration="1754000" />
+    </task>
+    <task id="LOCAL-00001" summary="Lena sort commit">
+      <created>1573737031825</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573737031825</updated>
+    </task>
+    <task id="LOCAL-00002" summary="flipping matrix commit">
+      <created>1573818291528</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573818291528</updated>
+    </task>
+    <task id="LOCAL-00003" summary=" flipping matrix better solution">
+      <created>1573819257801</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573819257801</updated>
+    </task>
+    <task id="LOCAL-00004" summary="adding the the main function plus some imports">
+      <created>1573819695895</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1573819695895</updated>
+    </task>
+    <task id="LOCAL-00005" summary="more">
+      <created>1573819973227</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1573819973227</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4397000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="813" height="810" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.41893643" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" visible="true" weight="0.3286908" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myShow1" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="MAXIMUM_HISTORY_ROWS" value="1800" />
+    <MESSAGE value="Lena sort commit" />
+    <MESSAGE value="flipping matrix commit" />
+    <MESSAGE value=" flipping matrix better solution" />
+    <MESSAGE value="adding the the main function plus some imports" />
+    <MESSAGE value="more" />
+    <option name="LAST_COMMIT_MESSAGE" value="more" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Constructive_Algorithms(Arrays)/Gaming_Array.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Constructive_Algorithms(Arrays)/Bonetrousle.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Constructive_Algorithms(Arrays)/Yet_Another_KMP_Problem.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Constructive_Algorithms(Arrays)/Beautiful_3_Set.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Constructive_Algorithms(Arrays)/Inverse_RMQ.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Constructive_Algorithms(Arrays)/Two_Subarrays.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Constructive_Algorithms(Arrays)/Lovely_Triplets.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Constructive_Algorithms(Arrays)/Array_Construction.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Implementation/Grading_Students.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Implementation/Apple_and_Orange.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Implementation/Kangaroo.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Implementation/Btween_Two_Sets.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Implementation/Breaking_the_Records.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Implementation/Birthday_Chocolate.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Implementation/Divisible_Sum_Pairs.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Implementation/Migratory_Birds.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Implementation/Day_of_the_Programmer.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Implementation/Bon_Appetit.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Implementation/Drawing_Book.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Implementation/Electronics_Shop.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Implementation/Cats_and_a_Mouse.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Implementation/Forming_a_Magic_Square.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Implementation/Picking_Numbers.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Implementation/Climbing_the_Leaderboard.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Implementation/The_Hurdle_Race.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Implementation/Designer_PDF_Viewer.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Implementation/Utopian_Tree.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Implementation/Beautiful_Days_at_the_Movies.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Implementation/Viral_Advertising.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Implementation/Save_the_Prisoner!.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Implementation/Circular_Array_Rotation.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Implementation/Sequence_Equation.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Implementation/Angry_Professor.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Constructive_Algorithms(Arrays)/Flipping_the_Matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Constructive_Algorithms(Arrays)/Lena_Sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
