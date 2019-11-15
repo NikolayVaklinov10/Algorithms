@@ -1,18 +1,8 @@
-for _ in range(int(input().strip())):
-    n = int(input().strip())
-    n2 = 2 * n
-    maxSum = 0
+def flippingMatrix(matrix):
+    s = 0
+    k = len(matrix[0])
+    for i in range(int(k/2)):
+        for j in range(int(k/2)):
+            s += max(matrix[i][j], matrix[i][k-j-1], matrix[k-i-1][j], matrix[k-i-1][k-j-1])
+    return s
 
-    matrix = [0] * n2
-    for i in range(n2):
-        matrix[i] = [int(x) for x in input().strip().split(' ')]
-
-    for i in range(n):
-        for j in range(n):
-            maxSum += max([matrix[i][j], \
-                           matrix[i][n2 - 1 - j], \
-                           matrix[n2 - 1 - i][j], \
-                           matrix[n2 - 1 - i][n2 - 1 - j]])
-
-    print(maxSum)
-    
